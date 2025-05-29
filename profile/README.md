@@ -41,7 +41,7 @@ This project includes:
 ## 📄 Full Requirements Specification
 
 You can read the full documentation and diagrams here:  
-**[👉 Link to Full Page Specification](#)**  
+**[👉 Link to Full Page Specification](#https://docs.google.com/document/d/1WgpN70b7lFgqLuhGseBLcCnDxQxpxFj3/edit?usp=sharing&ouid=108491610620538616034&rtpof=true&sd=true)**  
 <!-- Replace # with the actual link once hosted -->
 
 ---
@@ -61,6 +61,8 @@ You can read the full documentation and diagrams here:
 ## 🧑‍🏫 Supervised by
 
 **M. Sc. Shkumbin Fida**  
+**M. Sc. Edlira Cani**
+
 Epoka University, Department of Computer Engineering
 
 ---
