@@ -41,7 +41,7 @@ This project includes:
 ## 📄 Full Requirements Specification
 
 You can read the full documentation and diagrams here:  
-**[👉 Link to Full Page Specification]([https://docs.google.com/document/d/1WgpN70b7lFgqLuhGseBLcCnDxQxpxFj3/edit?usp=sharing&ouid=108491610620538616034&rtpof=true&sd=true](https://drive.google.com/drive/folders/18b2Pm9tnZVXrJl24oswY4amJk2DMU22S?usp=sharing))**  
+**[👉 Link to Full Page Specification](https://drive.google.com/drive/folders/18b2Pm9tnZVXrJl24oswY4amJk2DMU22S?usp=sharing)**  
 
 ---
 
